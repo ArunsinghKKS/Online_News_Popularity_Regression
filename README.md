@@ -1,4 +1,4 @@
-### Project Title: Predicting the Number of Shares for Online News Articles
+### Project Title: Predicting Social Share Counts for Online News Articles: A Machine Learning Approach
 
 **Author:** Arunsingh K.  
 
